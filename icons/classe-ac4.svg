@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Silhouettes (usage intense) -->
+  <circle cx="30" cy="22" r="5" fill="#3D4A52"/>
+  <path d="M30 27 L30 42 M22 33 L38 33 M30 42 L23 55 M30 42 L37 55" stroke="#3D4A52" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <circle cx="48" cy="22" r="5" fill="#3D4A52"/>
+  <path d="M48 27 L48 42 M40 33 L56 33 M48 42 L41 55 M48 42 L55 55" stroke="#3D4A52" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Maison + bureau -->
+  <polygon points="76,25 66,33 68,33 68,42 84,42 84,33 86,33" fill="none" stroke="#3D4A52" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- AC4 -->
+  <text x="50" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="900" fill="#3D4A52">AC4</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 220">
+  <text x="10" y="140" font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="150" font-weight="700" font-style="italic" fill="#8B1A1A">Cora</text>
+  <text x="355" y="105" font-family="'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="55" font-weight="700" font-style="italic" fill="#8B1A1A" transform="rotate(-25 390 90)">//</text>
+  <line x1="10" y1="158" x2="490" y2="158" stroke="#8B1A1A" stroke-width="3"/>
+  <text x="10" y="200" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="400" letter-spacing="8" fill="#3D4A52">DIVISIONE PARQUET</text>
+</svg>

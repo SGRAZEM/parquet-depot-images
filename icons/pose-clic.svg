@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Sol -->
+  <line x1="15" y1="78" x2="85" y2="78" stroke="#3D4A52" stroke-width="2"/>
+  <!-- Lame en place -->
+  <rect x="15" y="62" width="35" height="8" rx="1" fill="#3D4A52"/>
+  <!-- Profil clic sur lame en place -->
+  <path d="M50,62 L50,70 L52,68 L52,62" fill="#B5622A"/>
+  <!-- Lame qui clique (en angle) -->
+  <rect x="48" y="45" width="35" height="8" rx="1" fill="#3D4A52" transform="rotate(-25 48 49)"/>
+  <!-- Profil clic sur lame qui clique -->
+  <path d="M48,49 L46,51 L48,53" fill="#B5622A" transform="rotate(-25 48 49)"/>
+  <!-- Flèche rotation -->
+  <path d="M70 35 A 15 15 0 0 1 58 52" stroke="#B5622A" stroke-width="1.5" fill="none"/>
+  <polygon points="56,50 58,55 61,51" fill="#B5622A"/>
+</svg>

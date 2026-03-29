@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Lames de parquet -->
+  <rect x="15" y="25" width="70" height="7" rx="1" fill="#3D4A52"/>
+  <rect x="15" y="34" width="70" height="7" rx="1" fill="#3D4A52"/>
+  <!-- Lignes chauffage -->
+  <path d="M25 52 Q30 48 35 52 Q40 56 45 52 Q50 48 55 52 Q60 56 65 52 Q70 48 75 52" fill="none" stroke="#DC3545" stroke-width="2"/>
+  <path d="M25 62 Q30 58 35 62 Q40 66 45 62 Q50 58 55 62 Q60 66 65 62 Q70 58 75 62" fill="none" stroke="#DC3545" stroke-width="2"/>
+  <!-- Flèches chaleur montant -->
+  <path d="M35 75 L35 82" stroke="#B5622A" stroke-width="1.5"/>
+  <path d="M50 75 L50 82" stroke="#B5622A" stroke-width="1.5"/>
+  <path d="M65 75 L65 82" stroke="#B5622A" stroke-width="1.5"/>
+  <polygon points="33,75 35,70 37,75" fill="#B5622A"/>
+  <polygon points="48,75 50,70 52,75" fill="#B5622A"/>
+  <polygon points="63,75 65,70 67,75" fill="#B5622A"/>
+</svg>

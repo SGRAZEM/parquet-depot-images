@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Coupe transversale lame -->
+  <path d="M15 35 L85 35 L85 55 L15 55 Z" fill="none" stroke="#3D4A52" stroke-width="2"/>
+  <!-- Couches -->
+  <line x1="15" y1="40" x2="85" y2="40" stroke="#3D4A52" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="15" y1="45" x2="85" y2="45" stroke="#3D4A52" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="15" y1="50" x2="85" y2="50" stroke="#3D4A52" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Flèche épaisseur -->
+  <line x1="50" y1="62" x2="50" y2="80" stroke="#B5622A" stroke-width="2"/>
+  <polygon points="47,64 50,58 53,64" fill="#B5622A"/>
+  <polygon points="47,78 50,84 53,78" fill="#B5622A"/>
+  <!-- mm -->
+  <text x="50" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#3D4A52">mm</text>
+</svg>

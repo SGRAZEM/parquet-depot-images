@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Gouttes d'eau -->
+  <path d="M35 25 Q35 15 30 25 Q25 35 35 35 Q45 35 40 25 Q35 15 35 25Z" fill="#1565C0" opacity="0.8"/>
+  <path d="M55 20 Q55 12 51 20 Q47 28 55 28 Q63 28 59 20 Q55 12 55 20Z" fill="#1565C0" opacity="0.6"/>
+  <path d="M70 30 Q70 24 67 30 Q64 36 70 36 Q76 36 73 30 Q70 24 70 30Z" fill="#1565C0" opacity="0.4"/>
+  <!-- Lames de parquet -->
+  <rect x="15" y="50" width="30" height="6" rx="1" fill="#3D4A52"/>
+  <rect x="18" y="58" width="30" height="6" rx="1" fill="#3D4A52"/>
+  <rect x="55" y="50" width="28" height="6" rx="1" fill="#3D4A52"/>
+  <rect x="52" y="58" width="30" height="6" rx="1" fill="#3D4A52"/>
+  <!-- Check -->
+  <circle cx="72" cy="78" r="10" fill="#2E7D32"/>
+  <polyline points="66,78 70,82 78,74" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

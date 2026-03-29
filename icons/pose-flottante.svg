@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="none" stroke="#3D4A52" stroke-width="2.5"/>
+  <!-- Sol / sous-couche -->
+  <line x1="15" y1="75" x2="85" y2="75" stroke="#3D4A52" stroke-width="2"/>
+  <!-- Lame posée -->
+  <rect x="20" y="55" width="55" height="8" rx="1" fill="#3D4A52" transform="rotate(-5 47 59)"/>
+  <!-- Lame soulevée (flottante) -->
+  <rect x="30" y="38" width="50" height="8" rx="1" fill="#3D4A52" transform="rotate(-15 55 42)"/>
+  <!-- Flèche vers le bas -->
+  <path d="M55 30 L55 48" stroke="#3D4A52" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+  <defs><marker id="arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="#3D4A52"/></marker></defs>
+</svg>
